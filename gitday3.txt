@@ -1,4 +1,3 @@
 Welcome to Session Day3
 Day3 test1 message
-Day3 Session Test Branch Updated
-
+I am adding a new line to test1
