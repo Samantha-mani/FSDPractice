@@ -1,1 +1,2 @@
 Welcome to Session Day3
+Day3 test1 message
